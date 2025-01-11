@@ -1,7 +1,10 @@
 #ifndef STUDENT_H
 #define STUDENT_H
 #define MAX 100
+<<<<<<< HEAD
 
+=======
+>>>>>>> aef5cb2a3a06b8ced6062dbcb1183d7437ef9df3
 typedef struct Student{
     char name[20];
     int id;

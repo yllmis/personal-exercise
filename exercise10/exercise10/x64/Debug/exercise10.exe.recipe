@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>D:\计算机\c语言\personal-exercise\exercise10\x64\Debug\exercise10.exe</FullPath>
+=======
+      <FullPath>D:\计算机\c语言\练习\exercise10\x64\Debug\exercise10.exe</FullPath>
+>>>>>>> aef5cb2a3a06b8ced6062dbcb1183d7437ef9df3
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

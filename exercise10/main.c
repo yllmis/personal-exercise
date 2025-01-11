@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include<stdlib.h>
 #include"student.h"
+<<<<<<< HEAD
 
+=======
+>>>>>>> aef5cb2a3a06b8ced6062dbcb1183d7437ef9df3
 int main()
 {
 	int size=1;
